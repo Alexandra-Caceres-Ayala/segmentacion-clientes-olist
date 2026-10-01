@@ -1,0 +1,6 @@
+# Datos: no se suben; se descargan de Kaggle (ver README)
+Datos_originales/
+archive.zip
+
+# Archivo interno de macOS
+.DS_Store
